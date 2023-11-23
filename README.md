@@ -2,8 +2,6 @@
 
 ## Critic Model:
 
-Problem Addressed:
-
 This code segment demonstrates the application of a deep learning model, Critic, to solve the binary classification problem of musical sequences. The goal is to differentiate between "good music" and "bad music", essentially judging the quality of music based on its sequential data.
 
 Method Used:
