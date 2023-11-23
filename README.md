@@ -37,7 +37,7 @@ For 50 iterations, the code generates a sequence of music starting with a random
 Each generated sequence by the Composer is transformed into a tensor format suitable for the Critic model.
 The Critic model then evaluates each generated sequence, providing a score that reflects the quality of the sequence as perceived by the model.
 
-
+Calculated the average score of all generated sequences, which was 0.5142842.
 
 
 
